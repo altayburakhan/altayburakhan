@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @altayburakhan
+# 👋 Hi, I’m Burakhan
 - 👀 I’m interested in Game Designing, Coding, Playing Games.
 - 🌱 I’m currently learning C# for Unity.
 
