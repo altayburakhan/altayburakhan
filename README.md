@@ -16,4 +16,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=altayburakhan&show_icons=true&locale=en&layout=compact" alt="altayburakhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altayburakhan&show_icons=true&locale=en" alt="altayburakhan" /></p>
