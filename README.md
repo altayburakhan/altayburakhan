@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Burakhan</h1>
-<h3 align="center">Junior Game Developer from Turkey</h3>
+<h3 align="center">Jr. Data Engineer and Junior Game Developer from Turkey </h3>
 
-- 🌱 I’m currently learning Mysterious secrets of **Unity**
-- ECS/Entitas
-- Firebase
+- 🌱 I’m currently learning Mysterious secrets of **Data** 
+ 
 
 - 👨‍💻 All of my projects are available at my github and artstation [https://chuckmanorris.artstation.com/](https://chuckmanorris.artstation.com/)
 
